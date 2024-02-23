@@ -30,15 +30,15 @@ This monorepo contains multiple packages that together form a microfrontend arch
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/rica000/microfrontend-study-project.git
+    git clone https://github.com/fpegios/microfrontend-with-react.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd microfrontend-study-project
+    cd microfrontend-with-react
     ```
-
+    
 3. Install dependencies:
 
     ```bash
